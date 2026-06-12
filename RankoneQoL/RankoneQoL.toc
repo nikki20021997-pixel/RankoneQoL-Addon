@@ -1,0 +1,27 @@
+## Interface: 50504
+## Title: RankoneQoL
+## Notes: Quality-of-Life Addon!
+## Author: Rankøne
+## Version: 0.9.0
+## SavedVariablesPerCharacter: RankoneQoLEinstellungen
+## IconTexture: Interface\AddOns\RankoneQoL\logo
+
+# 1. Sprach- und Core-Fundamente
+Core\Localization.lua
+Core\Sounds.lua
+Core\Core.lua
+
+# 2. Logik-Module
+Modules\Features.lua
+
+# 3. Grafik- & UI-Module (Displays beinhaltet dein iLvl!)
+UI\Displays.lua
+UI\Graphics.lua
+UI\Audio.lua
+UI\Maps.lua
+UI\Tooltip.lua
+Minimap\Minimap.lua
+
+# 4. Das Hauptmenü (Muss als allerletztes geladen werden!)
+UI\RankoneUI.lua
+

@@ -1,0 +1,10 @@
+## Interface: 50504
+## Title: RankoneQoL [|cFF575EFFBags|r]
+## Notes: Clean & Modern All-in-One Bag Module for RankoneQoL!
+## Author: Rankøne
+## Version: 1.0.0
+## Dependencies: RankoneQoL
+## IconTexture: Interface\AddOns\RankoneQoL\logo
+
+# Die Kern-Logik des Taschen-Addons
+BagsCore.lua
